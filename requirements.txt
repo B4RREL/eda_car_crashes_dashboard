@@ -2,6 +2,7 @@ streamlit
 numpy
 pandas
 plotly
+statsmodels
 google-generativeai
 langchain
 langchain-experimental
