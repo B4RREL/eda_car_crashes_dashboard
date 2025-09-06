@@ -24,7 +24,6 @@ This project provides a comprehensive analysis of car crashes across U.S. states
   - Choropleth maps for geographic analysis
   - Scatter plots for correlations
   - Histograms for distributions
-  - Advanced visualizations (sunburst, parallel categories)
 
 ## 📈 Key Insights
 
@@ -117,7 +116,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [b4rrel.root@gmail.com](mailto: b4rrel.root@gmail.com)
+B4RREL - [b4rrel.root@gmail.com](mailto: b4rrel.root@gmail.com)
 
 Project Link: [https://github.com/B4RREL/eda_car_crashes_dashboard.git](https://github.com/B4RREL/eda_car_crashes_dashboard.git)
 
