@@ -449,7 +449,7 @@ if page == "📊 Dashboard":
 elif page == "🤖 AI Chat":
     st.markdown("# 🤖 AI Data Assistant")
     st.markdown("Ask me anything about the car crash data! I can help you explore patterns, calculate statistics, and provide insights with **interactive charts**.")
-    st.markdown("💡 **Try asking**: *'Show me top 5 states for alcohol crashes'* or *'Create a bar plot for speeding data'*")
+    st.markdown("💡 **Try asking**: *'Show me top 5 states for alcohol crashes'* or *'Create a bar plot for alcohol top 5 states'*")
 
     # Initialize session state for chat
     if "chat_history" not in st.session_state:
